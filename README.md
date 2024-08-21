@@ -1,6 +1,6 @@
 <p align="center">  
   <a href="">
-    <img alt="𝚸𝚫𝚻𝚪𝚯𝚴 𝛁1 𝚩𝐔𝐆" height="300" src="https://telegra.ph/file/551d68eb74a30dda96c0c.jpg">
+    <img alt="𝚸𝚫𝚻𝚪𝚯𝚴 𝛁1 𝚩𝐔𝐆" height="300" src="https://telegra.ph/file/06dab08429422e997f412.jpg">
     <h1 align="center">𝚸𝚫𝚻𝚪𝚯𝚴 𝛁1 𝚩𝐔𝐆</h1>
   </a>
 </p>
